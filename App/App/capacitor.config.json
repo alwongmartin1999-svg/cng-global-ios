@@ -1,0 +1,15 @@
+{
+	"appId": "com.cngdealdesk.app",
+	"appName": "CNG Deal Desk",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https",
+		"iosScheme": "https"
+	},
+	"ios": {
+		"contentInset": "always",
+		"allowsLinkPreview": false,
+		"scrollEnabled": true
+	},
+	"packageClassList": []
+}
